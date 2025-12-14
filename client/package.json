@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@blocknote/core": "^0.13.2",
+    "@blocknote/react": "^0.13.2",
+    "clsx": "^2.1.1",
+    "convex": "^0.1.1",
+    "emoji-picker-react": "^4.9.2",
+    "lucide-react": "^0.379.0",
+    "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-textarea-autosize": "^8.5.3",
+    "sonner": "^1.4.41",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "usehooks-ts": "^3.1.0",
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
     "typescript": "^5",
